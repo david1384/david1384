@@ -1,0 +1,3 @@
+- 👋 Hi, I’m david
+- 👀 I’m interested in c.
+- 🌱 I’m currently learning progaming
